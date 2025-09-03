@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 # Hi there 👋<br><br>I’m an analytical and solution-oriented professional with experience in **Data Science, Software Development, and IT Project Management**.  <br>My background across **tech companies, hospitality, and competitive basketball** has shaped my ability to perform under pressure, trust my team, and stay adaptable and curious.  <br><br>---<br><br>## 🛠️ Technical Skills<br>- **Data & AI**: LLMs, Machine Learning, Data Science, Data Visualization  <br>- **Programming & Tools**: Python, R, SQL, Tableau, Power BI, Markdown  <br>- **Productivity**: Office software, efficient workflows  <br><br>---<br><br>## 🤝 Soft Skills<br>- Critical thinking & problem-solving  <br>- Positive perfectionism & data-driven decision-making  <br>- Teamwork & situational leadership  <br><br>---<br><br>## 🌍 Languages<br>- Spanish  <br>- English  <br>- Valencian  <br><br>---<br>Always curious, always learning, always building.<br>
